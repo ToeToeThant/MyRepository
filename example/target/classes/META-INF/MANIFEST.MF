@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: example
+Implementation-Version: 1.0
+Built-By: User
+Implementation-Vendor-Id: com.jdc.mdy
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/example
+Created-By: Maven Integration for Eclipse
+
